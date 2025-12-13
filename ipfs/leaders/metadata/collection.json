@@ -1,0 +1,26 @@
+{
+    "name": "Tago Leaders",
+    "description": "After 3 seasons, all leaders receive 1 million OGAT Tokens, animated wolves, and exclusive access to the Open Gallery Collections.\n\nПо истечении 3 сезонов все лидеры получат 1 миллион токенов OGAT, анимированных волков и эксклюзивный доступ к коллекциям Open Gallery.",
+    "image": "ipfs://",
+    "cover_image": "ipfs://",
+    "external_link": null,
+    "external_url": null,
+    "social_links": [
+        "https://t.me/TagoWolf",
+        "https://t.me/TagoAppBot",
+        "https://t.me/TagoWolf_Chat"
+    ],
+    "buttons": [
+        {
+            "label": "Join Tago World",
+            "uri": "https://t.me/TagoWolf"
+        }
+    ],
+    "int_release": "The Next Generation of Leaders",
+    "int_text": "After 3 seasons, all leaders will receive 1 million OGAT Tokens, animated wolves, and exclusive access to the Open Gallery Collections.\n\nПо истечении 3 сезонов все лидеры получат 1 миллион токенов OGAT, анимированных волков и эксклюзивный доступ к коллекциям Open Gallery.",
+    "int_address": "",
+    "int_cover": "/ipfs/leaders/images/cover.webp",
+    "int_image": "/ipfs/leaders/images/image.webp",
+    "int_url": "/leaders",
+    "marketplace": "tagoworld.app"
+}
